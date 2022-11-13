@@ -11,7 +11,7 @@ A mini-project to better explain pub-sub architecture in ROS
 ## How to Launch the simulation?
 #### Clone the package in your repositry
 ```sh
-$ cd /home/workspace/catkin_ws/src/
+$ cd cd <your repository> ### or skip if you are already there
 $ git clone https://github.com/udacity/RoboND-simple_arm.git simple_arm
 ```
 
